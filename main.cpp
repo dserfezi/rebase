@@ -29,6 +29,8 @@ int main()
 	b = 2;
 	
 	sayYo();
+	int b;
+	b = 2;
 	
 	return 0;
 }
