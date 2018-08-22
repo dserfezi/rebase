@@ -23,6 +23,8 @@ int main()
 	d = false;
 	
 	sayYo();
+	int b;
+	b = 2;
 	
 	return 0;
 }
