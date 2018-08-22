@@ -21,8 +21,9 @@ int main()
 	bool c, d;
 	c = true;
 	d = false;
-	
+
 	sayYo();
+	
 	int b;
 	b = 2;
 	
