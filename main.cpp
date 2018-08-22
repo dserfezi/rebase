@@ -24,6 +24,8 @@ int main()
 
 	cout << someFunction1();
 	sayYo();
+	int b;
+	b = 2;
 	
 	return 0;
 }
