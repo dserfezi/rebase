@@ -12,6 +12,9 @@ int main()
 	cout << " world";
 	
 	cout << showBit();
+	bool c, d;
+	c = true;
+	d = false;
 	
 	return 0;
 }
