@@ -16,6 +16,8 @@ int main()
 {
 	cout << "Hello";
 	cout << " world";
+
+	cout << someFunction2();
 	
 	cout << showBit();
 	
