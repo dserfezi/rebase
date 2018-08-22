@@ -18,6 +18,7 @@ int main()
 	cout << " world";
 	
 	cout << showBit();
+	
 	bool c, d;
 	c = true;
 	d = false;
@@ -26,6 +27,8 @@ int main()
 	sayYo();
 	int b;
 	b = 2;
+	
+	sayYo();
 	
 	return 0;
 }
