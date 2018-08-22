@@ -7,6 +7,11 @@ int showBit()
 	return a;
 }
 
+void sayYo()
+{
+	cout << "Yo";
+}
+
 int main()
 {
 	cout << "Hello";
@@ -18,6 +23,7 @@ int main()
 	d = false;
 
 	cout << someFunction1();
+	sayYo();
 	
 	return 0;
 }
