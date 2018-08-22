@@ -1,4 +1,5 @@
 #include <iostream>
+#include <test.h>
 
 int showBit()
 {
@@ -15,6 +16,8 @@ int main()
 	bool c, d;
 	c = true;
 	d = false;
+
+	cout << someFunction1();
 	
 	return 0;
 }
