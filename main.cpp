@@ -24,7 +24,6 @@ int main()
 	bool c, d;
 	c = true;
 	d = false;
-
 	cout << someFunction1();
 	sayYo();
 	int b;
